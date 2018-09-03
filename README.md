@@ -3,5 +3,5 @@
 Packages Required:    
 -bs4   
 -cfscrape   
--shutil 
+-shutil   
 -os 
